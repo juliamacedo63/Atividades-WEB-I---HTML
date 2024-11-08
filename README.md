@@ -2,7 +2,7 @@
 Este repositório contém uma coleção de atividades práticas com a linguagem HTML, abordando desde os conceitos básicos até a implementação de elementos mais avançados. As atividades incluem exemplos de marcação, uso de tags e a construção de estruturas de páginas web simples.
 
 ### Atividades:
-- [Atividade 1>](atividade1.html)
+- [Atividade 1](atividade1.html)
 - [Atividade 2](atividade2.html)
 - [Atividade 3](atividade3.html)
 - [Atividade 4](atividade4.html)
