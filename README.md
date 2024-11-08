@@ -1,5 +1,5 @@
 # Atividades-WEB-I---HTML
-Atividades da disciplina de Desenvolvimento Web I(Parte de HTML)
+Este repositório contém uma coleção de atividades práticas com a linguagem HTML, abordando desde os conceitos básicos até a implementação de elementos mais avançados. As atividades incluem exemplos de marcação, uso de tags e a construção de estruturas de páginas web simples.
 
 ### Atividades:
 - [Atividade 1>](atividade1.html)
